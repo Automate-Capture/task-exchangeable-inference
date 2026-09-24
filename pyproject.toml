@@ -39,10 +39,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Lumi-node/task-exchangeable-inference"
-Documentation = "https://lumi-node.github.io/task-exchangeable-inference/"
-Repository = "https://github.com/Lumi-node/task-exchangeable-inference"
-Issues = "https://github.com/Lumi-node/task-exchangeable-inference/issues"
+Homepage = "https://github.com/Automate-Capture/task-exchangeable-inference"
+Documentation = "https://automate-capture.github.io/task-exchangeable-inference/"
+Repository = "https://github.com/Automate-Capture/task-exchangeable-inference"
+Issues = "https://github.com/Automate-Capture/task-exchangeable-inference/issues"
 
 [tool.ruff]
 line-length = 100

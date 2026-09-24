@@ -7,10 +7,10 @@
 <p align="center"><strong>Statistical inference with synthetic data via task exchangeability.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/task-exchangeable-inference"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub"></a>
-  <a href="https://github.com/Lumi-node/task-exchangeable-inference/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-  <a href="https://github.com/Lumi-node/task-exchangeable-inference/actions"><img src="https://img.shields.io/badge/tests-41-success.svg" alt="Tests"></a>
-  <a href="https://lumi-node.github.io/task-exchangeable-inference/"><img src="https://img.shields.io/badge/docs-online-blue.svg" alt="Docs"></a>
+  <a href="https://github.com/Automate-Capture/task-exchangeable-inference"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub"></a>
+  <a href="https://github.com/Automate-Capture/task-exchangeable-inference/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+  <a href="https://github.com/Automate-Capture/task-exchangeable-inference/actions"><img src="https://img.shields.io/badge/tests-41-success.svg" alt="Tests"></a>
+  <a href="https://automate-capture.github.io/task-exchangeable-inference/"><img src="https://img.shields.io/badge/docs-online-blue.svg" alt="Docs"></a>
 </p>
 
 ---
@@ -20,13 +20,13 @@
 ## Installation
 
 ```bash
-pip install git+https://github.com/Lumi-node/task-exchangeable-inference.git
+pip install git+https://github.com/Automate-Capture/task-exchangeable-inference.git
 ```
 
 Requires Python ≥ 3.10. To work on the project locally:
 
 ```bash
-git clone https://github.com/Lumi-node/task-exchangeable-inference.git
+git clone https://github.com/Automate-Capture/task-exchangeable-inference.git
 cd task-exchangeable-inference
 pip install -e ".[dev]"
 pytest -q
@@ -73,7 +73,7 @@ print(result)
 
 ## Documentation
 
-📖 Full documentation: [https://lumi-node.github.io/task-exchangeable-inference/](https://lumi-node.github.io/task-exchangeable-inference/)
+📖 Full documentation: [https://automate-capture.github.io/task-exchangeable-inference/](https://automate-capture.github.io/task-exchangeable-inference/)
 📄 Technical paper: see [`paper/`](paper/) for the LaTeX source and compiled PDF.
 
 > This is a reference implementation produced by an autonomous research pipeline. It is not published to PyPI; install from source as shown above.

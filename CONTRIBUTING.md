@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Task Exchange!
 ## Development Setup
 
 ```bash
-git clone https://github.com/Lumi-node/task-exchangeable-inference.git
+git clone https://github.com/Automate-Capture/task-exchangeable-inference.git
 cd task-exchangeable-inference
 pip install -e ".[dev]"
 ```
